@@ -5,3 +5,9 @@ html, body {
 canvas {
   display: block;
 }
+.Letra {
+  color: blue;
+}
+body {
+  background-color: beige;
+}
